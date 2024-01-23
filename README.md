@@ -45,6 +45,8 @@
 <p>上传成功后，首次需要重启程序，以启动https监听。</p>
 <h4>6、Taurus.RegistryCenter：微服务注册中心（配套系列）</h4>
 <p>网关使用地址：https://github.com/cyq1162/Taurus.RegistryCenter</p>
-<h5>7、Taurus 客户端（配套系列）</h5>
+<h4>7、Taurus 微服务客户端（配套系列）</h4>
 <p>见：/demo 运行示例。</p>
 <p></p>
+<h4>7、更多教程地址，见作者博客</h4>
+<p>https://www.cnblogs.com/cyq1162/category/2205668.html</p>
